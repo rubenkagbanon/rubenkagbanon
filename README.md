@@ -2,9 +2,9 @@
 <h3 align="center">Data Science student · Backend & AI engineer in the making · Based in Abidjan, Côte d'Ivoire 🇨🇮</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/ruben-kagbanon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rubenkagbanon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=E&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 </p>
 
 ---
@@ -21,6 +21,34 @@
 ---
 
 ## 🚀 Featured projects
+
+### 🗓️ Planex — School Timetable Generator
+
+<p align="center">
+  <a href="https://planexci.netlify.app/"><img src="assets/planex-logo.png" alt="Planex" width="320"/></a>
+</p>
+
+<p align="center">
+  <a href="https://planexci.netlify.app/"><img src="https://img.shields.io/badge/Live%20demo-planexci.netlify.app-1F3A2E?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
+</p>
+
+What takes school administrators weeks by hand, Planex does in seconds: it builds the timetable of an entire middle or high school with **zero conflicts**, following the official Ivorian ministry (MENA) curriculum hours and the school's own teaching rules — and explains every choice in a report.
+
+- ⚙️ **Generate:** official MENA hour grid built in, configurable teaching rules (no back-to-back sciences, one session per subject per day, PE early morning or late afternoon…), shared lectures, LV2 groups, specialised rooms
+- ✅ **Control:** guaranteed zero teacher/class/room conflicts, generation report, overview of all classes, teacher workloads
+- ✏️ **Adjust:** checked drag-and-drop, locked sessions, teacher unavailability, versions & restore
+- 📤 **Share:** printing in the official format, Excel export, team access via invite code, learns a school's habits from its existing PDF timetables
+
+**Tested on real data** — a middle/high school in Bingerville (37 classes, 55 teachers):
+
+| | Hand-made timetable | Planex |
+|---|:---:|:---:|
+| Hours placed | — | **929 / 929** |
+| Teacher / class / room conflicts | 75 | **0** |
+| Back-to-back languages or sciences | 77 | **0** |
+| Time to generate the whole school | weeks | **~5 s** |
+
+- `Constraint solving` `Optimization` `Tailwind CSS` `Netlify`
 
 ### 🎙️ Lia — AI Voice Callbot
 Real-time phone assistant answering customer calls for a mobile-money service.
@@ -76,12 +104,12 @@ Project lead & research assistant (African School of Economics / Yodan Consultin
 ## 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rubenkagbanon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenkagbanon&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubenkagbanon&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
