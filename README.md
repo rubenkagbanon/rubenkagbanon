@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ruben-kagbanon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:rubenkagbanon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=E&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rubenkagbanon&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 </p>
 
 ---
@@ -12,6 +12,7 @@
 ## 🧑‍💻 About me
 
 - 🎓 4th-year **Data Science** student at **African School of Economics** (Abidjan)
+- 🌍 Developer of **[EconGlobe](https://www.econglobe.com)**, a bilingual platform that gives visibility to research and ideas
 - 🤖 Currently building **Lia**, a voice AI callbot for a mobile-money company (LiveKit · RAG · LLMs · Asterisk)
 - 📦 Deploying and securing a **Sonatype Nexus Repository** artifact manager (Docker · Nginx · LDAP · HTTPS)
 - 🐍 Love working on **Python backends**, **AI agents** and **data-driven apps**
@@ -49,6 +50,33 @@ What takes school administrators weeks by hand, Planex does in seconds: it build
 | Time to generate the whole school | weeks | **~5 s** |
 
 - `Constraint solving` `Optimization` `Tailwind CSS` `Netlify`
+
+### 🌍 EconGlobe — Bilingual Research & Ideas Platform
+
+<p align="center">
+  <a href="https://www.econglobe.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/econglobe-logo-dark.png"/>
+      <img src="assets/econglobe-logo-light.png" alt="EconGlobe" width="160"/>
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.econglobe.com"><img src="https://img.shields.io/badge/Live-econglobe.com-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"/></a>
+</p>
+
+*Research, Ideas and Global Perspectives.* Each year, thousands of dissertations, studies and reports by students, researchers and institutions go unread. EconGlobe is an editorial platform that gives them visibility, with articles in 12 categories (economics, finance, politics, law, health, ecology, AI, data science…).
+
+I'm the **developer** of the platform (founded by Sosthene Jichi). I built it end to end:
+
+- 📖 **Readers:** free articles, search by article or author, category filters, public author profiles, sharing, FR / EN, automatic light / dark mode, fully responsive
+- ✍️ **Authors:** sign-up by email or Google, propose a topic to the editors, unlock the editor with an access code sent by email, rich **block editor** (headings, quotes, info boxes, images, sources, credits), drafts, preview, word count and reading time
+- 📊 **Author dashboard:** articles, reads, words written, reads per article (a read only counts after a real read, not a click)
+- 🛡️ **Editorial back office:** review and publish or reject pending articles, approve proposals and send access codes automatically, manage users
+- 🎨 **Design:** premium editorial look with an animated particle-globe built on HTML Canvas
+
+- `JavaScript` `HTML Canvas` `Authentication` `Transactional emails` `i18n`
 
 ### 🎙️ Lia — AI Voice Callbot
 Real-time phone assistant answering customer calls for a mobile-money service.
